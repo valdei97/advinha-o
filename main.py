@@ -1,6 +1,7 @@
 from random import randint
-
+print ('=-' * 20)
 print ('Jogo de Adivinhação')
+print ('=-' * 20)
 pc = randint (1,10)
 user = 0 #variavel iniciada fora do laço
 tentativas = 1
